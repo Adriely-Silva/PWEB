@@ -2,7 +2,7 @@
 
 Atividades acadêmicas envolvendo desenvolvimento web.
 
-##Linguagens abordadas
+## Ferramentas
 - PHP
 - HTML & CSS
 - JavaScript
